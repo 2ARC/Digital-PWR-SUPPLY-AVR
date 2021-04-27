@@ -5,8 +5,8 @@ Schematics and software are based on Guido Socher work at tuxgraphics.org
 http://www.tuxgraphics.org/electronics/200707/bench-power-supply-unit.shtml
 
 This is an old project build on four hands, me and a intern at out company that has the skill of DIY PCB boards. If you
-know what copper clad laminate and etching solution, household clothes iron and lase printer are, so sure, you know what
-I am talking about.
+know what copper clad laminate and etching solution, household clothes iron and lase printer can do together, so sure,
+you know what I am talking about.
 
 Almost all parts came from a waste bucket except for the mcu and some conections pins.
 
