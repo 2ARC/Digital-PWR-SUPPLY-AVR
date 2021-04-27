@@ -8,4 +8,6 @@ This is an old project build on four hands, me and a intern at out company that 
 know what copper clad laminate and etching solution, household clothes iron and lase printer are, so sure, you know what
 I am talking about.
 
+Almost all parts came from a waste bucket except for the mcu and some conections pins.
 
+You can view it in action at
