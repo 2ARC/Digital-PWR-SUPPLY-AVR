@@ -15,7 +15,7 @@ toroidal transformer from a thermal printer, LCD from a dispatch indicator etc.
 
 You can view it in action at  youtube:
 
-______________________________________
+https://www.youtube.com/watch?v=rYz-jPgbcTQ
 
 I am not affiliated with any company or individual cited above. This is a product of free time and has not been intended
 for profit of any kind.
